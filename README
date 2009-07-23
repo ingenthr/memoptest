@@ -1,0 +1,9 @@
+
+This is a quick python script for simply verifying correct behavior
+and performance from a memcached server or moxi.
+
+To run it, simply execute the memcacheops.py script
+
+License is CDDL, meaning any modifications to CDDL files must be 
+recontributed.
+
