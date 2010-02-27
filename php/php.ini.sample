@@ -1,0 +1,2 @@
+extension_dir = "/Users/ingenthr/tmp/memcache-2.2.5/modules"
+extension=memcache.so 
